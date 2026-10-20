@@ -2,6 +2,12 @@
   "title": "Project",
   "description": "Browse Core project pages.",
   "pages": [
-    "./project-management"
+    "./get-project",
+    "./update-project",
+    "./list-branches",
+    "./create-branch",
+    "./update-branch",
+    "./list-branch-files",
+    "./move-files"
   ]
 }
